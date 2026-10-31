@@ -1,0 +1,14 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment7
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> java Task1.java
+Found at index 1
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> java Task2.java 
+1
+2
+3
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> java Task3.java 
+Product: 24
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment7> 

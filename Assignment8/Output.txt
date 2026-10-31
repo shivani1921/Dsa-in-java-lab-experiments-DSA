@@ -1,0 +1,16 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment8\Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment8.Task1
+Roll: 101
+Name: Rama
+
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment8\Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment8.Task2
+Roll: 5
+Name: Rohan
+Roll: 8
+Name: Meera
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment8\Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment8.Task3
+true
+false
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> 

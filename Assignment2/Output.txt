@@ -1,0 +1,14 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment2
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> java Task1.java
+Largest: 90
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> ^C
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> java Task2.java
+Smallest: 45
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment2> java Task3.java
+Count: 3
+
+

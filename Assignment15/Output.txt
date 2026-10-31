@@ -1,0 +1,24 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment15
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> java Task1.java
+[]
+[3]
+[2]
+[2, 3]
+[1]
+[1, 3]
+[1, 2]
+[1, 2, 3]
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> java Task2.java
+abc
+acb
+bac
+bca
+cab
+cba
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> java Task3.java
+xy
+yx
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment15> 

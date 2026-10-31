@@ -1,0 +1,15 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment13
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> java Task1.java
+Sum: 45
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> java Task2.java 
+Maximum: 15
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> java Task3.java 
+15
+12
+9
+6
+3
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment13> 

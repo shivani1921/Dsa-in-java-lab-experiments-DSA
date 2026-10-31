@@ -1,0 +1,13 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment9\Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment9.Task1      
+Width: 10
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment9\Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment9.Task2      
+Width: 25
+
+
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment9\Task3.java
+
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment9.Task3 
+Count: 3
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> 

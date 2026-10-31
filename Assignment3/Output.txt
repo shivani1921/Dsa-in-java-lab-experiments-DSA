@@ -1,0 +1,20 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> java Task1.java
+1
+4
+2
+5
+8
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> java Task2.java 
+1
+2
+4
+5
+8
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> java Task3.java 
+3
+7
+9
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment3> 

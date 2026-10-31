@@ -1,0 +1,13 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment5
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> java Task1.java
+Index: 2
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5>
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> java Task2.java
+Index: -1
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> java Task3.java
+Count: 3
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment5> 

@@ -1,0 +1,12 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment12
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> java Task1.java
+Factorial of 5: 120
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> java Task2.java
+Sum of 10: 55
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment12> java Task3.java 
+Power: 32
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment

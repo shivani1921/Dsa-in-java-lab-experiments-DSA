@@ -1,0 +1,11 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment8\Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment10\Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment10.Task1
+Some sound
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment10\Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment10.Task2
+Name: Neha
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment10\Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment10.Task3
+Hello, Kiran
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> 

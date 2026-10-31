@@ -1,0 +1,11 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment11\Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment11.Task1      
+Area: 16
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment11\Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment11.Task2
+Area: 20
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> javac Assignment11\Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> ava Assignment11.Task3 
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> java Assignment11.Task3
+Area: 9
+PS C:\Users\acer\Desktop\Java-DSA-Assignments>

@@ -1,0 +1,12 @@
+
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment14
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14> java Task1.java
+Is Sorted: true
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14> java Task2.java
+Index: 2
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14> java Task3.java
+Fibonacci: 13
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment14>

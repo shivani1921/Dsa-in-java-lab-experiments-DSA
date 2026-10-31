@@ -1,0 +1,19 @@
+PS C:\Users\acer\Desktop\Java-DSA-Assignments> cd Assignment4
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> java Task1.java
+Index: 4
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> java Task2.java
+11
+12
+22
+25
+64
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> java Task3.java
+11
+25
+12
+22
+64
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment4> 

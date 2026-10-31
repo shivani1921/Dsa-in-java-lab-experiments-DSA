@@ -1,0 +1,15 @@
+
+ PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment1> javac Task2.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment1> java Task2.java
+45
+67
+80
+52
+90
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment1> javac Task3.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment1> java Task3.java
+Sum: 334
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment1> javac Task1.java
+PS C:\Users\acer\Desktop\Java-DSA-Assignments\Assignment1> java Task1.java
+First: 45
+Last: 90
